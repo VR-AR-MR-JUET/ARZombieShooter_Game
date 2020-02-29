@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/tornado/ARZOMBIE/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/raw_keep.xml.flat",
+        "source": "/home/tornado/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/5cc43bc64ed1294657ee9d2ab99807e1/res/raw/keep.xml"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/home/tornado/ARZOMBIE/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/layout___arcore_education.xml.flat",
+        "source": "/home/tornado/.gradle/caches/transforms-1/files-1.1/arcore_client.aar/5cc43bc64ed1294657ee9d2ab99807e1/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/tornado/ARZOMBIE/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/home/tornado/ARZOMBIE/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/home/tornado/ARZOMBIE/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/home/tornado/ARZOMBIE/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    }
+]
